@@ -72,3 +72,15 @@ Além de ser dev, utilizo a ferramenta FIGMA para transformar minhas ideias de p
 
 <br/>
 <br/>
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rafaelcontieri&show_icons=true&theme=tokyonight&locale=pt-br&border_radius=10" />
+  
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelcontieri&layout=compact&theme=tokyonight&locale=pt-br&border_radius=10" />
+
+  <br/>
+
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rafaelcontieri&theme=tokyo-night&area=true&hide_border=true&border_radius=10&custom_title=Histórico%20de%20Contribuições" />
+</div>
+
+<br clear="both"/>
