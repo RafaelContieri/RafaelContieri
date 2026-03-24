@@ -4,6 +4,7 @@
  curso Sistemas da Informação pelo Centro Universitário UNIFAFIBE também em Bebedouro - SP. Ao longo da minha jornada que se iniciou em 2024, no qual, meus dois projetos desenvolvidos
  que alavancaram meus estudos foram realizados em parceria com a própria Etec Prof. Idio Zucchi, na qual desenvolvi um sistema de chamados Help desk, utilizado as tecnologias React, React-Native a linguagem GO, utilizada para a API do sistema.
 E meu segundo projeto, no qual foi meu TCC para o técnico, é um sistema de gestão de vendas para a cantina da Etec. No qual, foi desenvolvido apenas com HTML, CSS, JS, e PHP, utilizando como banco de dados, o mysql.
+Tenho alguns projetos utilizando N8N com Docker, no qual são apenas para estudos.
 
 Além de ser dev, utilizo a ferramenta FIGMA para transformar minhas ideias de projetos em desgin, trazendo para a tela, a projeção de cada componente do sistema.
 
